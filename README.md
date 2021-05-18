@@ -32,7 +32,7 @@ A project made by students of [IE NITK](https://ie.nitk.ac.in/). Two CNNs are im
 <i>Made with</i> :heart:
 
 <b>Mentors</b>
-- [dwaipayon05](https://github.com/dwaipayan05)
+- [dwaipayan05](https://github.com/dwaipayan05)
 - [Shreesha-B](https://github.com/Shreesha-B)
 
 <b>Mentees</b>
